@@ -34,7 +34,5 @@ This application was built to digitize the traditional fee management process in
 - **Database**: MySQL  
 - **Server**: Apache (XAMPP/WAMP)
 
----
 
-## 📁 Project Structure
 
