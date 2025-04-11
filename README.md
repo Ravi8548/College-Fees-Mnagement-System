@@ -32,7 +32,7 @@ This application was built to digitize the traditional fee management process in
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap  
 - **Backend**: PHP  
 - **Database**: MySQL  
-- **Server**: Apache (XAMPP/WAMP)
+- **Server**: Apache (XAMPP/WAMP)  
 
 
 
