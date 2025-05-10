@@ -33,6 +33,3 @@ This application was built to digitize the traditional fee management process in
 - **Backend**: PHP  
 - **Database**: MySQL  
 - **Server**: Apache (XAMPP/WAMP)  
-
-
-
